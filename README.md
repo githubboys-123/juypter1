@@ -29,7 +29,8 @@ hours to minutes conversion
 ![9-hourstominutes](https://github.com/user-attachments/assets/f62aa3de-7e70-4266-898f-f894cbb5e4a7)
 
 objectives
-![11-objectives](https://github.com/user-attachments/assets/492232ea-a868-4046-9f01-e6264ebced52)
+![10-objectives](https://github.com/user-attachments/assets/2ca1b628-f826-4ee4-95da-5bbedefee7f6)
+
 
 author details
 ![11-authordetails](https://github.com/user-attachments/assets/cdc81953-60c8-4498-b6d7-de47c0a80ce1)
